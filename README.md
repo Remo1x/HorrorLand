@@ -1,0 +1,3 @@
+Horrorland is a dark, unsettling internal environment that feels abandoned yet strangely alive. Beneath its eerie appearance lies a collection of systems built over time, layered with outdated logic, inconsistent controls, and silent assumptions that no one ever revisited. Interfaces are minimal, warnings are vague, and certain pages seem to respond in ways they shouldn’t—creating a constant sense that something is watching and waiting.
+
+Everything exists within the isolated internal domain horrorland.local, a place meant to feel closed off from the outside world. Despite this isolation, Horrorland gives the impression of lingering activity, where past decisions still echo through the system and every interaction leaves a trace behind.
