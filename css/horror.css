@@ -1,0 +1,54 @@
+body {
+    background: black;
+    color: darkred;
+    font-family: "Courier New", monospace;
+    text-align: center;
+}
+
+.title {
+    font-size: 3em;
+    text-shadow: 0 0 20px red;
+}
+
+.text {
+    font-size: 1.2em;
+    margin: 20px;
+}
+
+.warning {
+    color: crimson;
+    animation: blink 1.5s infinite;
+}
+
+.whisper {
+    color: #550000;
+    font-style: italic;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0 0 10px red;
+}
+
+.terminal {
+    background: black;
+    color: lime;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+}
+
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0.3; }
+    100% { opacity: 1; }
+}
